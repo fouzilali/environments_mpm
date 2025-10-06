@@ -10,4 +10,4 @@ dependencies:
   - scikit-image
   - sympy
   - pip:
-      - -e . # install local repo
+      - -r requirements.txt
